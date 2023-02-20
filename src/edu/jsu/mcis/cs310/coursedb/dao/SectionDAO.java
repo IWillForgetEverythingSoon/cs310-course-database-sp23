@@ -9,6 +9,7 @@ public class SectionDAO {
     
     // INSERT YOUR CODE HERE
     
+    
     private final DAOFactory daoFactory;
     
     SectionDAO(DAOFactory daoFactory) {
@@ -30,6 +31,7 @@ public class SectionDAO {
             if (conn.isValid(0)) {
                 
                 // INSERT YOUR CODE HERE
+                
                 
             }
             
